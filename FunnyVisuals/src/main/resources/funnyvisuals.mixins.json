@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "package": "com.funnyvisuals.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ClientWorldMixin",
+    "BackgroundRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
